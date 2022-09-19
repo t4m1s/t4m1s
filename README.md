@@ -3,4 +3,4 @@
 - Tenho 24 anos.
 - Ensino médio completo, atualmente estou estudando programação front-end e suporte em TI.
 
-- > @_t4m1s_ (instagram)
+- > @t4m1s_ (instagram)
