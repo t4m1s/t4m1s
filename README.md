@@ -1,7 +1,7 @@
-## > Oi, meu nome é Tamyris.
-## > Sou do Rio de Janeiro, São Gonçalo.
-## > Tenho 24 anos.
-## > Ensino médio completo, atualmente estou estudando programação front-end e suporte em TI.
+- Oi, meu nome é Tamyris.
+- Sou do Rio de Janeiro, São Gonçalo.
+- Tenho 24 anos.
+- Ensino médio completo, atualmente estou estudando programação front-end e suporte em TI.
 
 <div align="center">
   <a href="https://github.com/t4m1s">
