@@ -2,7 +2,7 @@
     <h2>👨‍💻 Sobre mim</h2>
       <p>Olá, meu nome é Tamyris</p>
       <p>Tenho 24 anos</p>
-      <p>Atualmente estudo desenvolvimento front-end</p>
+      <p>Atualmente estudo Desenvolvimento Web</p>
       
   
    <img align="right" height="300px" src="./assets/serial-experiments-lain-lain.gif">
